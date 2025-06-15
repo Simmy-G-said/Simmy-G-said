@@ -1,4 +1,4 @@
--Bio: 👨‍🎓 Cybersecurity & Software Development Student
+-Bio: 👨‍🎓 Data Science & Software Development Student
 
 -🔒 Passionate about securing applications and enhancing software resilience
 
